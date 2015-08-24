@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Activity Test</string>
+    
+    <string name="button_1">Call SecondActivity</string>
+    <string name="button_2">Call URL VIEW</string>
+    <string name="button_5">Call ThirdActivity</string>
+    <string name="button_6">Call FirstActivity</string>
+    <string name="button_3">Hello</string>
+    <string name="button_4">Welcome to the ThirdActivity World!</string>
+    <string name="button_7">Finish All Activities!</string>
+    
+     <string name="add_item">Add</string>
+     <string name="remove_item">Remove</string>
+
+</resources>
