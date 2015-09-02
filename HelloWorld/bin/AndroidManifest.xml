@@ -17,8 +17,8 @@
             android:name="com.lyne.helloworld.HelloActivity"
             android:label="@string/app_name" >
             <intent-filter>
+                <!-- 当前活动为该项目的主活动 -->
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
